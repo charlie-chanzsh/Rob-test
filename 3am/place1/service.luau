@@ -6,4 +6,3 @@ game.Players.PlayerAdded:Connect(function(player)
 	TeleportService:TeleportAsync(placeId , {player})
 end)
 
-
