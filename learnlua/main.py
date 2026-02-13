@@ -1,7 +1,8 @@
-# test
+# print("Hello , World!")
 
-# set variable 
-arm_ro = 12345
-xee_ro = 12346
 
-print(arm_ro *  xee_ro)
+arm_naha = 1000
+if arm_naha >= 2000:
+    print('test')
+else:
+    print('!test')
